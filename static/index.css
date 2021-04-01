@@ -1,0 +1,12 @@
+body{
+    background-color: #1f1c1c;
+    color: aliceblue;
+}
+#form{
+    padding-top: 100px;
+}
+#submit{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
