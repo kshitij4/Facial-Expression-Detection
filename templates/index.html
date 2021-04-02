@@ -32,19 +32,17 @@
         <input type="submit" name="btn">
     </form> -->
 
-
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
     <script type="text/javascript">
-        $(document).ready(function () {
+        $(function () {
             $('#submit').attr('disabled', true);
-            $('#formFile').change(
-                function () {
-                    if ($(this).val()) {
-                        $('#submit>').removeAttr('disabled');
-                    }
-                    else {
-                        $('#submit').attr('disabled', true);
-                    }
-                });
+            $('#formFile').change(function () {
+                if ($('#file1').val() != '' ) {
+                    $('#submit').attr('disabled', false);
+                } else {
+                    $('#submit').attr('disabled', true);
+                }
+            });
         });
     </script>
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"
@@ -53,7 +51,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js"
             integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc"
             crossorigin="anonymous"></script>
-        <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+        
     </body>
 
 </html>
