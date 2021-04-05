@@ -8,3 +8,10 @@
 Happy coding Neos:thumbsup:
 
 Deployed the app on the link: http://35.153.192.142:8080/
+
+Sample output:
+![image](https://user-images.githubusercontent.com/38696263/113542630-4e23c480-9602-11eb-8792-c4fb013066dd.png)
+
+
+![image](https://user-images.githubusercontent.com/38696263/113542677-6a276600-9602-11eb-9175-4e990b33feaa.png)
+
