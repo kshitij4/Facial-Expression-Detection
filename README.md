@@ -6,3 +6,13 @@
 2. You are advised to strictly follow the instructions given in the pdf document.
 
 Happy coding Neos:thumbsup:
+
+Deployed the app on AWS on the link: http://35.153.192.142:8080/
+
+Sample output:
+![image](https://user-images.githubusercontent.com/38696263/113542630-4e23c480-9602-11eb-8792-c4fb013066dd.png)
+
+
+![image](https://user-images.githubusercontent.com/38696263/113542787-a0fd7c00-9602-11eb-9e8f-cc26db54b3af.png)
+
+
