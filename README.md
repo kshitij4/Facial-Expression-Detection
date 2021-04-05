@@ -6,3 +6,5 @@
 2. You are advised to strictly follow the instructions given in the pdf document.
 
 Happy coding Neos:thumbsup:
+
+Deployed the app on the link: http://35.153.192.142:8080/
